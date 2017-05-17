@@ -1,6 +1,6 @@
 /*jshint esversion: 6 */
 export default function() {
-    return [
+    return ([
       {
         id: 1,
         first: "Steve",
@@ -33,5 +33,5 @@ export default function() {
         description: "Peter loves the brewstillery.",
         thumbnail: "http://i.imgur.com/7yUvePI.jpg"
       }
-    ];
+    ]);
 }
